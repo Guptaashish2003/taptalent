@@ -2,12 +2,19 @@
 
 A modern, real-time weather analytics dashboard built with React, TypeScript, and Redux. Get instant weather updates, forecasts, and manage your favorite cities with a beautiful, responsive interface.
 
-![Weather Analytics Dashboard](<img width="2256" height="1377" alt="image" src="https://github.com/user-attachments/assets/d8d0c1f4-d054-4d99-9d32-d2c218e3aaed" />
-)
-![TypeScript](<img width="2256" height="1377" alt="image" src="https://github.com/user-attachments/assets/e5e87e37-ae4d-4b27-b52f-bab487f1111b" />
-)
-![Redux](<img width="2256" height="1377" alt="image" src="https://github.com/user-attachments/assets/1c4ca2b5-4573-4248-b361-c60e282d45d3" />
-)
+## 📸 Screenshots
+
+![Dashboard View](https://github.com/user-attachments/assets/d8d0c1f4-d054-4d99-9d32-d2c218e3aaed)
+
+![Search Feature](https://github.com/user-attachments/assets/e5e87e37-ae4d-4b27-b52f-bab487f1111b)
+
+![Weather Details](https://github.com/user-attachments/assets/1c4ca2b5-4573-4248-b361-c60e282d45d3)
+
+## 🏷️ Tech Badges
+
+![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?style=for-the-badge&logo=redux)
 
 ## ✨ Features
 
