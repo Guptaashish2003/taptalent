@@ -261,7 +261,7 @@ Customize animations in component files using Framer Motion:
 3. **Geocoding API**
    - Endpoint: `/geo/1.0/direct`
    - Method: GET
-   - Returns: City coordinates and details
+   - Returns: City coordinates and detail
 
 ## 🐛 Troubleshooting
 
