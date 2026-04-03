@@ -54,7 +54,7 @@ const Dashboard: React.FC = () => {
       >
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-bold text-gray-900">Weather Analytics</h1>
+            <h1 className="text-3xl font-bold text-gray-900">Weather Analytics:ASHISH</h1>
             <p className="text-gray-600">Real-time weather data and forecasts</p>
           </div>
 
