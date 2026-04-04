@@ -1,6 +1,6 @@
 # Weather Analytics Dashboard 🌤️
 
-A modern, real-time weather analytics dashboard built with React, TypeScript, and Redux. Get instant weather updates, forecasts, and manage your favorite cities with a beautiful, responsive interface.
+A modern, real-time weather analytics dashboard built with React, TypeScript, and Redux. Get instant weather updates, forecasts, and manage your favorite cities with a beautiful, responsive interfaces.
 
 ## 📸 Screenshots
 
